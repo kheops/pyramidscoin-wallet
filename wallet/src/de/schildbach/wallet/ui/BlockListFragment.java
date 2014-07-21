@@ -68,7 +68,7 @@ import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.pyramidscoin.wallet.R;
 
 
 /**

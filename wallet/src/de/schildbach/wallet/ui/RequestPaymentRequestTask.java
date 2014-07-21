@@ -44,7 +44,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.PaymentIntent;
 import de.schildbach.wallet.util.Bluetooth;
 import de.schildbach.wallet.util.PaymentProtocol;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.pyramidscoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

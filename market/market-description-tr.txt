@@ -1,20 +1,20 @@
-Darkcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Darkcoin cüzdanı ilk mobil Darkcoin uygulamasıdır ve muhtemelen en güvenli Darkcoin uygulamasıdır!
+Pyramidscoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Pyramidscoin cüzdanı ilk mobil Pyramidscoin uygulamasıdır ve muhtemelen en güvenli Pyramidscoin uygulamasıdır!
 
 İŞLEVLERİ:
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Darkcoin meblağlarının DRK ve mDRK olarak gösterilmesi.
+• Pyramidscoin meblağlarının PYRA ve mPYRA olarak gösterilmesi.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
-• NFC, QR kodu veya Darkcoin bağlantıları ile Darkcoin gönderir ve alır.
-• Sık kullanılan Darkcoin adresleri için adres defteri içerir.
+• NFC, QR kodu veya Pyramidscoin bağlantıları ile Pyramidscoin gönderir ve alır.
+• Sık kullanılan Pyramidscoin adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
-• Alınan Darkcoin'ler için sistem bildirimleri.
-• Darkcoin bakiyesini görüntüleyen widget.
+• Alınan Pyramidscoin'ler için sistem bildirimleri.
+• Pyramidscoin bakiyesini görüntüleyen widget.
 
-Darkcoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://darkcoin.io
+Pyramidscoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://pyramidscoin.com
 
-Darkcoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
-https://github.com/HashEngineering/darkcoin-wallet
+Pyramidscoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/kheops/pyramidscoin-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

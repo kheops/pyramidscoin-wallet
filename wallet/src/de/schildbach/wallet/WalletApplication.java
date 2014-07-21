@@ -69,7 +69,7 @@ import de.schildbach.wallet.service.BlockchainServiceImpl;
 import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.Io;
 import de.schildbach.wallet.util.LinuxSecureRandom;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.pyramidscoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

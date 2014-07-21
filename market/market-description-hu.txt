@@ -1,22 +1,22 @@
-Tartsd a zsebedben Darkcoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Darkcoin Tárca az első Darkcoin app és kétségkívül a legbiztonságosabb is!
+Tartsd a zsebedben Pyramidscoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Pyramidscoin Tárca az első Pyramidscoin app és kétségkívül a legbiztonságosabb is!
 
 ELŐNYÖK:
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
-• A Darkcoinjaid mennyiségét DRK és mDRK formában is láthatod.
+• A Pyramidscoinjaid mennyiségét PYRA és mPYRA formában is láthatod.
 • Átváltás a saját valutádra, oda-vissza.
-• Darkcoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
-• Címtár a rendszeresen használt Darkcoin címek számára.
+• Pyramidscoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt Pyramidscoin címek számára.
 • Offline állapotban is fizethetsz - Bluetooth segítségével.
-• Rendszerüzenet Darkcoin érkezésekor.
-• Widget a Darkcoin egyenlegről.
+• Rendszerüzenet Pyramidscoin érkezésekor.
+• Widget a Pyramidscoin egyenlegről.
 >>>>>>> upstream/prod
 
-Bővebben a Darkcoin-ról:
-http://darkcoin.io
+Bővebben a Pyramidscoin-ról:
+http://pyramidscoin.com
 
-Ha hozzájárulnál a Darkcoin Wallet projekthez:
-https://github.com/HashEngineering/darkcoin-wallet
+Ha hozzájárulnál a Pyramidscoin Wallet projekthez:
+https://github.com/kheops/pyramidscoin-wallet
 
 
 

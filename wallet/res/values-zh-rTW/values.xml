@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DRK, 8位數</item>
-		<item>DRK, 6位數</item>
-		<item>DRK, 4位數</item>
-		<item>mDRK, 2位數</item>
-		<item>µDRK, 0位數</item>
+		<item>PYRA, 8位數</item>
+		<item>PYRA, 6位數</item>
+		<item>PYRA, 4位數</item>
+		<item>mPYRA, 2位數</item>
+		<item>µPYRA, 0位數</item>
 	</string-array>
 
 </resources>

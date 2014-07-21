@@ -1,20 +1,20 @@
-Dengan aplikasi ini Anda selalu mempunyai Darkcoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Darkcoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Pyramidscoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Pyramidscoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Darkcoin dan mata uang lainnya.
-• Mengirim dan menerima Darkcoin via NFC, kode-QR atau Tautan Darkcoin.
-• Buku alamat untuk alamat penggunaan Darkcoin secara reguler.
+• Tampilkan saldo dompet dalam Pyramidscoin dan mata uang lainnya.
+• Mengirim dan menerima Pyramidscoin via NFC, kode-QR atau Tautan Pyramidscoin.
+• Buku alamat untuk alamat penggunaan Pyramidscoin secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Darkcoin dan menerima koin.
-• Widget Apl untuk saldo Darkcoin.
+• Notifikasi sistem untuk konektivitas Pyramidscoin dan menerima koin.
+• Widget Apl untuk saldo Pyramidscoin.
 
-Anda dapat mengetahui lebih mengenai Darkcoin di
-http://darkcoin.io
+Anda dapat mengetahui lebih mengenai Pyramidscoin di
+http://pyramidscoin.com
 
-Jika Anda ingin berkontribusi kepada Darkcoin Wallet, proyeknya berada di
-https://github.com/HashEngineering/darkcoin-wallet
+Jika Anda ingin berkontribusi kepada Pyramidscoin Wallet, proyeknya berada di
+https://github.com/kheops/pyramidscoin-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

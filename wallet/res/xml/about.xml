@@ -6,11 +6,11 @@
 			android:key="about_version"
 			android:title="Version" />
 		<Preference
-			android:summary="© 2011-2014, Andreas Schildbach\n© 2013-2014, Hash Engineering Solutions"
+			android:summary="© 2011-2014, Andreas Schildbach\n© 2013-2014, Hash Engineering Solutions\n© 2014, kheops"
 			android:title="Copyright" />
         <Preference
                 android:summary="Version v0.9.10.2 and above"
-                android:title="darkcoin Compatibility" />
+                android:title="pyramidscoin Compatibility" />
 		<Preference
 			android:key="about_license"
 			android:title="@string/about_license_title" />

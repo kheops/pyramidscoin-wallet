@@ -28,7 +28,7 @@ import com.google.bitcoin.core.NetworkParameters;
 import com.google.bitcoin.params.MainNetParams;
 import com.google.bitcoin.params.TestNet3Params;
 import com.google.bitcoin.core.CoinDefinition;
-import hashengineering.darkcoin.wallet.R;
+import hashengineering.pyramidscoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
@@ -95,7 +95,7 @@ public class Constants
 	public static final int LOCAL_PRECISION = 8;        //altcoins need more digits in BTC
     //TODO: What about these two things?
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;
-	public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
+	public static final String REPORT_EMAIL = "PyramidsCoin@Gmail.com";
 
 	public static final int UBTC_MAX_PRECISION = 2;
 
@@ -107,23 +107,23 @@ public class Constants
 
     public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.46\n";
     public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
-	public static final String SOURCE_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
-	public static final String BINARY_URL = "https://github.com/HashEngineering/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
+	public static final String SOURCE_URL = "https://github.com/kheops/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
+	public static final String BINARY_URL = "https://github.com/kheops/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/kheops/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://darkcoin.io/";
-    public static final String CREDITS_FORUM_URL = "https://darkcointalk.org/";
+    public static final String CREDITS_WEBSITE_URL = "http://www.pyramidscoin.com/";
+    public static final String CREDITS_FORUM_URL = "http://www.forum.pyramidscoin.com/";
 
-	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
+	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=335652";
 
-	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/HashEngineering";
-	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/HashEngineering";
+	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/PyramidsCoin";
+	public static final String AUTHOR_GOOGLEPLUS_URL = "https://www.plus.google.com/100726956647509539280";
 
-	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/communities/105515929887248493912";
+	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://www.plus.google.com/100726956647509539280";
 
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
-	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"Hash Engineering Solutions\"";
+	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"kheops\"";
 
 	public static final String VERSION_URL = "http://wallet.schildbach.de/version";
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;

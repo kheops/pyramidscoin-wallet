@@ -3,7 +3,7 @@
 特徴:
 
 • 登録必要なし、ウェブサービスもクラウドもいりません！このウォレットは分散型P2Pです。
-• ビットコインの表示がDRKとmDRK。
+• ビットコインの表示がPYRAとmPYRA。
 • 自国通貨へ・からの変換表示。
 • NFC、QRコード、ビットコインURLでの送金や受取。
 • 良く使うビットコインアドレスのためのアドレスブック。
@@ -12,10 +12,10 @@
 • ビットコイン収支のためのヴィジット。
 
 ビットコインについての詳細は
-http://Darkcoin.org
+http://Pyramidscoin.org
 
 もしビットコインウォレットへの開発協力をご希望なら、プロジェクトはこちら
-https://github.com/HashEngineering/darkcoin-wallet
+https://github.com/kheops/pyramidscoin-wallet
 
 ライセンス: GPLv3
 自己責任でご利用ください！

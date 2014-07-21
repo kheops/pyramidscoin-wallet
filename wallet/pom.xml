@@ -7,8 +7,8 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 
-	<version>0.1.1</version>
-	<name>Darkcoin Wallet</name>
+	<version>0.1.0</version>
+	<name>Pyramidscoin Wallet</name>
 
 
 	<parent>
@@ -63,7 +63,7 @@
 		<dependency>
 			<groupId>com.google</groupId>
 
-			<artifactId>darkcoincoinj</artifactId>
+			<artifactId>pyramidscoinj</artifactId>
 			<version>0.12-SNAPSHOT</version>
 
 		</dependency>

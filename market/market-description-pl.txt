@@ -1,21 +1,21 @@
-Miej swoje Darkcoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Darkcoin Wallet jest pierwszą aplikacją Darkcoinową na telefony i niezaprzeczalnie najbezpieczniejszą.
+Miej swoje Pyramidscoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Pyramidscoin Wallet jest pierwszą aplikacją Pyramidscoinową na telefony i niezaprzeczalnie najbezpieczniejszą.
 
 WŁAŚCIWOŚCI:
 
 • Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
-• Wyświetl ilość kwotę w DRK i mDRK.
+• Wyświetl ilość kwotę w PYRA i mPYRA.
 • Zamiana z i na waluty narodowe
-• Wysyłąnie i odbieranie Darkcoin za pomocą NFC, kodów QR czy adresów Darkcoin URL.
-• Książka adresowa dla regularnie używanych adresów Darkcoin.
+• Wysyłąnie i odbieranie Pyramidscoin za pomocą NFC, kodów QR czy adresów Pyramidscoin URL.
+• Książka adresowa dla regularnie używanych adresów Pyramidscoin.
 • Gdy jesteś offline, wciąż możesz zapłacić przy użyciu Bluetooth.
 • System powiadomień dla przychodzących transakcji.
 • Widget aplikacji dla stanu konta.
 
-Dowiedz się więcej o Darkcoin
-http://darkcoin.io
+Dowiedz się więcej o Pyramidscoin
+http://pyramidscoin.com
 
-Jeśli chcesz przyczynić się do rozwoju Darkcoin Wallet to projekt znajduje się pod adresem
-https://github.com/HashEngineering/darkcoin-wallet
+Jeśli chcesz przyczynić się do rozwoju Pyramidscoin Wallet to projekt znajduje się pod adresem
+https://github.com/kheops/pyramidscoin-wallet
 
 Licencja: GPLv3
 Używasz na własne ryzyko!

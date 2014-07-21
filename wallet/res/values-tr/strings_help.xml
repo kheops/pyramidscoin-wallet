@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			Ekranın üst sol köşesi diğer kişilerin size Darkcoin yollayabilmek için bilmeleri seçilen sizin Darkcoin adresinizi gösterir.
+			Ekranın üst sol köşesi diğer kişilerin size Pyramidscoin yollayabilmek için bilmeleri seçilen sizin Pyramidscoin adresinizi gösterir.
 			Adresi değiştirmek için dokunmak yeterlidir.
 		</p>
 		<p>
-			Sağdaki QR code Darkcoin adresinizi içerir ve diğer kişiler tarafından taranmak için kullanılabilir.
+			Sağdaki QR code Pyramidscoin adresinizi içerir ve diğer kişiler tarafından taranmak için kullanılabilir.
 			Daha büyük bir QR code görüntülemek için koda dokununuz.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Listeye filtre uygulamak için sağa ya da sola kaydırabilirsiniz.
 		</p>
 		<p>
-			Darkcoin yollamak ya da talep etmek için etkinlik çubuğunda düğmelere dokunabilirsiniz.
+			Pyramidscoin yollamak ya da talep etmek için etkinlik çubuğunda düğmelere dokunabilirsiniz.
 			Tercihler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>
@@ -31,18 +31,18 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Darkcoin talep edebilirsiniz (bu kişinin Darkcoin Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden Pyramidscoin talep edebilirsiniz (bu kişinin Pyramidscoin Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
-			İlk olarak talep edilen Darkcoin miktarını girebilirsiniz.
+			İlk olarak talep edilen Pyramidscoin miktarını girebilirsiniz.
 		</p>
 		<p>
 			Ardından ya diğer kişi tarafından taranacak bir QR code oluşturmanız,
 			ya da uzaktaki bir kişiye etkinlik çubuğunda paylaş düğmesiyle talebinizi göndermeniz gerekir.
-			Bu kişinin Darkcoin bağlantısını tıklaması gerekecektir.
+			Bu kişinin Pyramidscoin bağlantısını tıklaması gerekecektir.
 		</p>
 		<p>
-			Her durumda diğer kişiye Darkcoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
+			Her durumda diğer kişiye Pyramidscoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
 			Kabul ederse tüm yapması gereken muameleyi yollamaktır.
 		</p>
 	]]>
@@ -50,16 +50,16 @@
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Darkcoin gönderme prosedürünü başlattınız.
-			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Darkcoin bağlantısına tıklayarak geldiniz.
+			Pyramidscoin gönderme prosedürünü başlattınız.
+			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Pyramidscoin bağlantısına tıklayarak geldiniz.
 		</p>
 		<p>
-			İlk olarak ödeme yapacağınız Darkcoin adresini girmelisiniz.
+			İlk olarak ödeme yapacağınız Pyramidscoin adresini girmelisiniz.
 			Adres defterinizde bilinen adreslere dayanılarak adres otomatik olarak tamamlanacaktır.
-			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Darkcoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
+			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Pyramidscoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
 		</p>
 		<p>
-			Bunun ardından o anda ne kadar Darkcoin harcayabileceğinizi görüntüleyebilirsiniz.
+			Bunun ardından o anda ne kadar Pyramidscoin harcayabileceğinizi görüntüleyebilirsiniz.
 			Varsa ana ekrandaki bakiye ile farklılıklar henüz teyit edilmemiştir ve dolayısıyla henüz harcanamaz.
 		</p>
 		<p>
@@ -67,7 +67,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Darkcoin Wallet uygulamasının sonraki açılışında gönderilir.
+			Pyramidscoin Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -80,20 +80,20 @@
 	<string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Darkcoinlerinizin güvenliği hakkında önemli noktalar:</b>
+			<b>Pyramidscoinlerinizin güvenliği hakkında önemli noktalar:</b>
 		</p>
 		<p>
-			Darkcoin cüzdanınızdaki Darkcoinler cihazınızda saklanır.
-			<b>Cihazınızı kaybederseniz Darkcoinlerinizi de kaybedersiniz.</b>
+			Pyramidscoin cüzdanınızdaki Pyramidscoinler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz Pyramidscoinlerinizi de kaybedersiniz.</b>
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Darkcoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Darkcoinlerinizi başka bir cüzdana aktarınız</b>.
-			Kalan tüm Darkcoinler kaybolacaktır.
+			<b>Pyramidscoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Pyramidscoinlerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm Pyramidscoinler kaybolacaktır.
 		</p>
 		<p>
 			<b>Muameleler geri alınamaz</b>.
-			Darkcoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+			Pyramidscoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
 		</p>
 		<p>
 			<b>Android cihazınızı güvenli kullanın!</b>
@@ -102,7 +102,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Darkcoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>Pyramidscoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>
 	</string>

@@ -1,19 +1,19 @@
-Dit is een standalone Darkcoin Wallet voor uw Android apparaat. U kan direct Darkcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Pyramidscoin Wallet voor uw Android apparaat. U kan direct Pyramidscoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Darkcoin en verschillende andere valuta.
-• Verzenden en ontvangen van Darkcoin via NFC, QR-codes of Darkcoin URLs.
-• Adresboek voor veelgebruikte Darkcoin adressen.
+• Weergeven van het wallet saldo in Pyramidscoin en verschillende andere valuta.
+• Verzenden en ontvangen van Pyramidscoin via NFC, QR-codes of Pyramidscoin URLs.
+• Adresboek voor veelgebruikte Pyramidscoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Darkcoin connectiviteit en ontvangen Darkcoins.
-• Widget voor Darkcoin saldo.
+• Systeem melding over Pyramidscoin connectiviteit en ontvangen Pyramidscoins.
+• Widget voor Pyramidscoin saldo.
 
-Voor meer informatie over Darkcoin kunt u terecht op
-http://darkcoin.io
+Voor meer informatie over Pyramidscoin kunt u terecht op
+http://pyramidscoin.com
 
-Als u een bijdrage wil leveren aan Darkcoin Wallet, het project is te vinden op
-https://github.com/HashEngineering/darkcoin-wallet
+Als u een bijdrage wil leveren aan Pyramidscoin Wallet, het project is te vinden op
+https://github.com/kheops/pyramidscoin-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

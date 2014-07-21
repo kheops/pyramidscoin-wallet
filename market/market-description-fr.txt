@@ -1,22 +1,22 @@
-Ayez vos Darkcoins toujours avec vous dans votre poche ! Payez rapidement en numérisant un code-QR. En tant que marchant vous recevez les paiements de manière fiable et instantanée. Darkcoin Wallet est la première appli Darkcoin mobile et sans doute aussi la plus sécuritaire !
+Ayez vos Pyramidscoins toujours avec vous dans votre poche ! Payez rapidement en numérisant un code-QR. En tant que marchant vous recevez les paiements de manière fiable et instantanée. Pyramidscoin Wallet est la première appli Pyramidscoin mobile et sans doute aussi la plus sécuritaire !
 
 FONCTIONS :
 
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
-• Affichage du montant de Darkcoin en DRK et mDRK.
+• Affichage du montant de Pyramidscoin en PYRA et mPYRA.
 • Conversion vers et depuis des devises nationales.
-• Envoi et réception des Darkcoins via NFC, codes QR ou des URLs Darkcoin.
-• Carnet d'adresses pour les adresses Darkcoin utilisées régulièrement.
+• Envoi et réception des Pyramidscoins via NFC, codes QR ou des URLs Pyramidscoin.
+• Carnet d'adresses pour les adresses Pyramidscoin utilisées régulièrement.
 • Quand vous êtes hors-ligne vous pouvez quand même payez via Bluetooth.
 • Notification du système pour les pièces reçues.
-• Widget affichant le solde Darkcoin.
+• Widget affichant le solde Pyramidscoin.
 
 
-Vous pouvez en apprendre plus au sujet de Darkcoin sur
-http://darkcoin.io
+Vous pouvez en apprendre plus au sujet de Pyramidscoin sur
+http://pyramidscoin.com
 
-Si vous voulez contribuer á Darkcoin Wallet, le projet se trouve sur
-https://github.com/schildbach/Darkcoin-wallet
+Si vous voulez contribuer á Pyramidscoin Wallet, le projet se trouve sur
+https://github.com/schildbach/Pyramidscoin-wallet
 
 Licence : GPLv3
 Utiliser à vos propres risques !

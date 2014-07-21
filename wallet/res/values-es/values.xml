@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DRK, 8 dígitos</item>
-		<item>DRK, 6 dígitos</item>
-		<item>DRK, 4 dígitos</item>
-		<item>mDRK, 2 dígitos</item>
-		<item>µDRK, sin dígitos</item>
+		<item>PYRA, 8 dígitos</item>
+		<item>PYRA, 6 dígitos</item>
+		<item>PYRA, 4 dígitos</item>
+		<item>mPYRA, 2 dígitos</item>
+		<item>µPYRA, sin dígitos</item>
 	</string-array>
 
 </resources>
